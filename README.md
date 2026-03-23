@@ -1,4 +1,4 @@
-Vikash Bhandari  
+##Vikash Bhandari  
 
 CS @ IIIT Naya Raipur  
 into full-stack, AI/ML, and systems  
